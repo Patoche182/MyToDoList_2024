@@ -5,8 +5,40 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:MyToDoList_2024"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MyToDoList" Height="450" Width="800" Background="Black">
     <Grid>
+        <WrapPanel>
+            <Button Content="Button" Margin="20" Width="100">
+                <Button.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FF00D0FF"/>
+                        <GradientStop Color="#FF00FDFD" Offset="0.154"/>
+                        <GradientStop Color="#FF14FF01" Offset="0.965"/>
+                    </LinearGradientBrush>
+                </Button.Background>
+            </Button>
+
+            <Button Content="Button" Margin="20" Width="100">
+                <Button.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FF00D0FF"/>
+                        <GradientStop Color="#FF00FDFD" Offset="0.154"/>
+                        <GradientStop Color="#FF14FF01" Offset="0.965"/>
+                    </LinearGradientBrush>
+                </Button.Background>
+            </Button>
+
+            <Button Content="Button" Margin="20" Width="100">
+                <Button.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FF00D0FF"/>
+                        <GradientStop Color="#FF00FDFD" Offset="0.154"/>
+                        <GradientStop Color="#FF14FF01" Offset="0.965"/>
+                    </LinearGradientBrush>
+                </Button.Background>
+            </Button>
+
+        </WrapPanel>
 
     </Grid>
 </Window>
