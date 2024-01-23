@@ -50,6 +50,17 @@
                 <RowDefinition Height="30" />
             </Grid.RowDefinitions>
 
+            <StackPanel Grid.Row="0">
+                <Label Foreground="White" FontWeight="Bold" FontSize="20" Width="350"> Good Afternoon</Label>
+                <Label Foreground="#FF737373" FontWeight="Bold" FontSize="20" Width="350"> What's the plan for today? </Label>
+
+            </StackPanel>
+
+            <StackPanel Grid.Row="1">
+                <Button Content="Button" Margin="20" Background="#FFC1A109" Height="40" Padding="5,5,5,5" />
+
+            </StackPanel>
+
         </Grid>
 
         <!-- Block GAUCHE -->
