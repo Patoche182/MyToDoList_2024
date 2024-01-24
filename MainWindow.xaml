@@ -35,7 +35,7 @@
             </StackPanel>
 
             <StackPanel Grid.Row="1">
-                <Button Content="Button" Margin="10" Background="#FFC1A109" Height="40" Padding="5,5,5,5" />
+                <Button Content="Button Hey !" Margin="10" Background="#FFC1A109" Height="40" Padding="5,5,5,5" Foreground="White" FontSize="16" FontWeight="Bold" />
 
             </StackPanel>
 
@@ -57,11 +57,11 @@
             </StackPanel>
 
             <StackPanel Grid.Row="1">
-                <Button Content="Button" Margin="20 10" Background="#FF34E803" Height="40" Padding="5,5,5,5" />
-                <Button Content="Button" Margin="20 10" Background="#FF34E803" Height="40" Padding="5,5,5,5" />
-                <Button Content="Button" Margin="20 10" Background="#FF34E803" Height="40" Padding="5,5,5,5"  />
-                <Button Content="Button" Margin="20 10" Background="#FF34E803" Height="40" Padding="5,5,5,5" />
-                <Button Content="Button" Margin="20 10" Background="#FF34E803" Height="40" Padding="5,5,5,5" />
+                <Button Content="ToDo note 1" Margin="20 10" Background="#FFC1A109" Height="40" Padding="5,5,5,5" FontSize="16"/>
+                <Button Content="ToDo note 2" Margin="20 10" Background="#FFC1A109" Height="40" Padding="5,5,5,5" FontSize="16"/>
+                <Button Content="ToDo note 3" Margin="20 10" Background="#FFC1A109" Height="40" Padding="5,5,5,5" FontSize="16"/>
+                <Button Content="ToDo note 4" Margin="20 10" Background="#FFC1A109" Height="40" Padding="5,5,5,5" FontSize="16"/>
+                <Button Content="ToDo note 5" Margin="20 10" Background="#FFC1A109" Height="40" Padding="5,5,5,5" FontSize="16" />
             </StackPanel>
 
         </Grid>
