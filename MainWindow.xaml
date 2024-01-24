@@ -57,11 +57,11 @@
             </StackPanel>
 
             <StackPanel Grid.Row="1">
-                <Button Content="ToDo note 1" Margin="20 10" Background="#FFC1A109" Height="40" Padding="5,5,5,5" FontSize="16"/>
-                <Button Content="ToDo note 2" Margin="20 10" Background="#FFC1A109" Height="40" Padding="5,5,5,5" FontSize="16"/>
-                <Button Content="ToDo note 3" Margin="20 10" Background="#FFC1A109" Height="40" Padding="5,5,5,5" FontSize="16"/>
-                <Button Content="ToDo note 4" Margin="20 10" Background="#FFC1A109" Height="40" Padding="5,5,5,5" FontSize="16"/>
-                <Button Content="ToDo note 5" Margin="20 10" Background="#FFC1A109" Height="40" Padding="5,5,5,5" FontSize="16" />
+                <Button Content="ToDo note 1" Margin="20 10" Height="40" Padding="5,5,5,5" FontSize="16" Background="#FF00FF82"/>
+                <Button Content="ToDo note 2" Margin="20 10" Background="#FF00FF82" Height="40" Padding="5,5,5,5" FontSize="16"/>
+                <Button Content="ToDo note 3" Margin="20 10" Height="40" Padding="5,5,5,5" FontSize="16" Background="#FF00FF82"/>
+                <Button Content="ToDo note 4" Margin="20 10" Background="#FF00FF82" Height="40" Padding="5,5,5,5" FontSize="16"/>
+                <Button Content="ToDo note 5" Margin="20 10" Height="40" Padding="5,5,5,5" FontSize="16" Background="#FF00FF82" />
             </StackPanel>
 
         </Grid>
@@ -79,9 +79,12 @@
 
             <Grid Grid.Column="2" Grid.Row="1">
                 <!--<StackPanel>-->
-                    <Rectangle HorizontalAlignment="Center" Height="130" Margin="0,77,0,0" Grid.Row="1" Stroke="Black" VerticalAlignment="Top" Width="180"/>
-                    <RadioButton Margin="20" Content="Done" Foreground="White" BorderBrush="Red" Background="#FF00FF56" Width="150" Height="30"/>
-                    <!--<RadioButton Margin="20" Content="ToDo" Foreground="White" BorderBrush="Red" Background="#FF00FF56" Width="150" Height="30"/>
+                <Rectangle HorizontalAlignment="Center" Height="130" Margin="0,77,0,0" Grid.Row="1" Stroke="Black" VerticalAlignment="Top" Width="180"/>
+                <RadioButton Margin="25,79,25,108" Content="Done" Foreground="White" BorderBrush="Red" Background="#FFA7088B" Width="150" Height="30"/>
+                <RadioButton Margin="25,109,25,78" Content="ToDo" Foreground="White" BorderBrush="Red" Background="#FFCAAB1A" Width="150" Height="30"/>
+                <RadioButton Margin="25,139,25,48" Content="Archive" Foreground="White" BorderBrush="Red" Background="#FF0739B3" Width="150" Height="30"/>
+                <RadioButton Margin="25,169,25,18" Content="Deleted" Foreground="White" BorderBrush="Red" Background="#FFE6FF00" Width="150" Height="30"/>
+                <!--<RadioButton Margin="20" Content="ToDo" Foreground="White" BorderBrush="Red" Background="#FF00FF56" Width="150" Height="30"/>
                     <RadioButton Margin="20" Content="Delete" Foreground="White" BorderBrush="Red" Background="#FF00FF56" Width="150" Height="30"/>
                     <RadioButton Margin="20" Content="Archive" Foreground="White" BorderBrush="Red" Background="#FF00FF56" Width="150" Height="30"/>-->
                 <!--</StackPanel>-->
