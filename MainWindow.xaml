@@ -35,7 +35,8 @@
             </StackPanel>
 
             <StackPanel Grid.Row="1">
-                <Button Content="Button Hey !" Margin="10" Background="#FFC1A109" Height="40" Padding="5,5,5,5" Foreground="White" FontSize="16" FontWeight="Bold" />
+                <Button Content="+ New ToDo " Margin="10" Background="#FF00FF82" Height="40" Padding="5,5,5,5" Foreground="Black" FontSize="18" FontWeight="Bold" />
+                <Button Content="Archive" Margin="10" Background="#FFFF4600" Height="40" Padding="5,5,5,5" Foreground="Black" FontSize="18" FontWeight="Bold" />
 
             </StackPanel>
 
