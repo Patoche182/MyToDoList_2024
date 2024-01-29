@@ -36,7 +36,10 @@
 
             <StackPanel Grid.Row="1">
                 <Button Content="+ New ToDo " Margin="10" Background="#FF00FF82" Height="40" Padding="5,5,5,5" Foreground="Black" FontSize="18" FontWeight="Bold" />
-                <Button Content="Archive" Margin="10" Background="#FFFF4600" Height="40" Padding="5,5,5,5" Foreground="Black" FontSize="18" FontWeight="Bold" />
+                <Label Background="{x:Null}" Foreground="#FFB7FF00"> - My Lists - 
+                </Label>
+                <Button Content="Life" Margin="10" Background="#FFF58F69" Height="40" Padding="5,5,5,5" Foreground="Black" FontSize="18" FontWeight="Bold" />
+                <Button Content="Work" Margin="10" Background="#FFF58F69" Height="40" Padding="5,5,5,5" Foreground="Black" FontSize="18" FontWeight="Bold" />
 
             </StackPanel>
 
