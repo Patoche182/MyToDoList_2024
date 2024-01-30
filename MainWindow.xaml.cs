@@ -20,5 +20,12 @@ namespace MyToDoList_2024
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            // StickyNoteControl.Add();
+            MessageBox.Show("Ajouter une note", "ToDo note", MessageBoxButton.YesNo, MessageBoxImage.Question);
+
+        }
     }
 }
