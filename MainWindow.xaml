@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:MyToDoList_2024"
         mc:Ignorable="d"
-        Title="MyToDoList" Height="500" Width="1000" Background="Black" ResizeMode="NoResize">
+        Title="MyToDoList" Height="500" Width="800" Background="Black" ResizeMode="NoResize">
 
     <!-- Définition de la GRID -->
     <Grid Background="Black">
@@ -63,10 +63,10 @@
             </StackPanel>
 
             <StackPanel Grid.Row="1">
-                <Button Content="ToDo note 1" Margin="20 10" Height="40" Padding="5,5,5,5" FontSize="16" Background="#FFFF6900"/>
-                <Button Content="ToDo note 2" Margin="20 10" Background="#FFA000FF" Height="40" Padding="5,5,5,5" FontSize="16"/>
-                <Button Content="ToDo note 3" Margin="20 10" Height="40" Padding="5,5,5,5" FontSize="16" Background="#FF0079FF"/>
-                <Button Content="ToDo note 4" Margin="20 10" Background="#FFABFF00" Height="40" Padding="5,5,5,5" FontSize="16"/>
+                <Button Content="ToDo note 1 Allé t'as vuuuuuuu !" Margin="20 10" Height="40" Padding="5,5,5,5" FontSize="16" Background="#FFFF6900"/>
+                <Button Content="ToDo note 2 Ouai Grooo faut trop que je asse ça" Margin="20 10" Background="#FFA000FF" Height="40" Padding="5,5,5,5" FontSize="16"/>
+                <Button Content="ToDo note 3 A Flute j'y avait pas penser ..." Margin="20 10" Height="40" Padding="5,5,5,5" FontSize="16" Background="#FF0079FF"/>
+                <Button Content="ToDo note 4 Ok, c'est noté :)" Margin="20 10" Background="#FFABFF00" Height="40" Padding="5,5,5,5" FontSize="16"/>
             </StackPanel>
 
         </Grid>
