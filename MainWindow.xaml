@@ -42,6 +42,7 @@
                 <Button Content="Work" Margin="10" Background="#FFE1F569" Height="40" Padding="5,5,5,5" Foreground="Black" FontSize="18" FontWeight="Bold" />
                 <Button Content="Perso" Margin="10" Background="#FF69F5F2" Height="40" Padding="5,5,5,5" Foreground="Black" FontSize="18" FontWeight="Bold" />
                 <Button Content="Remenber" Margin="10" Background="#FF9A69F5" Height="40" Padding="5,5,5,5" Foreground="Black" FontSize="18" FontWeight="Bold" />
+                <Button Content="Tasks" Margin="10" Background="#FFD4264E" Height="40" Padding="5,5,5,5" Foreground="Black" FontSize="18" FontWeight="Bold" />
 
             </StackPanel>
 
@@ -67,6 +68,7 @@
                 <Button Content="ToDo note 2 Ouai Grooo faut trop que je fasse ça" Margin="20 10" Background="#FFF3EF76" Height="40" Padding="5,5,5,5" FontSize="16"/>
                 <Button Content="ToDo note 3 A Flute j'y avait pas penser ..." Margin="20 10" Height="40" Padding="5,5,5,5" FontSize="16" Background="#FFF3EF76"/>
                 <Button Content="ToDo note 4 Ok, c'est noté :)" Margin="20 10" Background="#FFF3EF76" Height="40" Padding="5,5,5,5" FontSize="16"/>
+                <Button Content="ToDo note 5, Learn :--)" Margin="20 10" Background="#FFF3EF76" Height="40" Padding="5,5,5,5" FontSize="16"/>
             </StackPanel>
 
         </Grid>
