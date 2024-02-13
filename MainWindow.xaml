@@ -69,6 +69,7 @@
                 <Button Content="ToDo note 3 A Flute j'y avait pas penser ..." Margin="20 10" Height="40" Padding="5,5,5,5" FontSize="16" Background="#FFF3EF76"/>
                 <Button Content="ToDo note 4 Ok, c'est noté :)" Margin="20 10" Background="#FFF3EF76" Height="40" Padding="5,5,5,5" FontSize="16"/>
                 <Button Content="ToDo note 5, Learn :--)" Margin="20 10" Background="#FFF3EF76" Height="40" Padding="5,5,5,5" FontSize="16"/>
+                <Button Content="ToDo note 6, Learn Again !!! )" Margin="20 10" Background="#FFF3EF76" Height="40" Padding="5,5,5,5" FontSize="16"/>
             </StackPanel>
 
         </Grid>
