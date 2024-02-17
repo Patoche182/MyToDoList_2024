@@ -92,9 +92,9 @@
                 <RadioButton Margin="25,109,25,78" Content="ToDo" Foreground="White" BorderBrush="Red" Background="#FFCAAB1A" Width="150" Height="30"/>
                 <RadioButton Margin="25,139,25,48" Content="Archive" Foreground="White" BorderBrush="Red" Background="#FF0739B3" Width="150" Height="30"/>
                 <RadioButton Margin="25,169,25,18" Content="Deleted" Foreground="White" BorderBrush="Red" Background="#FFE6FF00" Width="150" Height="30"/>
-                <!--<RadioButton Margin="20" Content="ToDo" Foreground="White" BorderBrush="Red" Background="#FF00FF56" Width="150" Height="30"/>
+                <RadioButton Margin="20" Content="ToDo" Foreground="White" BorderBrush="Red" Background="#FF00FF56" Width="150" Height="30"/>
                     <RadioButton Margin="20" Content="Delete" Foreground="White" BorderBrush="Red" Background="#FF00FF56" Width="150" Height="30"/>
-                    <RadioButton Margin="20" Content="Archive" Foreground="White" BorderBrush="Red" Background="#FF00FF56" Width="150" Height="30"/>-->
+                    <RadioButton Margin="20" Content="Archive" Foreground="White" BorderBrush="Red" Background="#FF00FF56" Width="150" Height="30"/>
                 <!--</StackPanel>-->
             </Grid>
 
