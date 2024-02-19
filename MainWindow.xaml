@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:MyToDoList_2024"
         mc:Ignorable="d"
-        Title="MyToDoList" Height="600" Width="900" Background="Black" ResizeMode="NoResize">
+        Title="MyToDoList" Height="600" Width="900" Background="Black">
 
     <!-- Définition de la GRID -->
     <Grid Background="Black">
@@ -64,12 +64,12 @@
             </StackPanel>
 
             <StackPanel Grid.Row="1">
-                <Button Content="ToDo note 1 Allé t'as vuuuuuuu !" Margin="20 10" Height="40" Padding="5,5,5,5" FontSize="16" Background="#FFF3EF76"/>
-                <Button Content="ToDo note 2 Ouai Grooo faut trop que je fasse ça" Margin="20 10" Background="#FFF3EF76" Height="40" Padding="5,5,5,5" FontSize="16"/>
+                <Button Content="ToDo note 1 Allé t'as vuuuuu !" Margin="20 10" Height="40" Padding="5,5,5,5" FontSize="16" Background="#FFF3EF76"/>
+                <Button Content="ToDo note 2 Ouai faut trop que je fasse ça" Margin="20 10" Background="#FFF3EF76" Height="40" Padding="5,5,5,5" FontSize="16"/>
                 <Button Content="ToDo note 3 A Flute j'y avait pas penser ..." Margin="20 10" Height="40" Padding="5,5,5,5" FontSize="16" Background="#FFF3EF76"/>
-                <Button Content="ToDo note 4 Ok, c'est noté :)" Margin="20 10" Background="#FFF3EF76" Height="40" Padding="5,5,5,5" FontSize="16"/>
-                <Button Content="ToDo note 5, Learn :--)" Margin="20 10" Background="#FFF3EF76" Height="40" Padding="5,5,5,5" FontSize="16"/>
-                <Button Content="ToDo note 6, Learn Again !!! )" Margin="20 10" Background="#FFF3EF76" Height="40" Padding="5,5,5,5" FontSize="16"/>
+                <Button Content="ToDo note 4 Ok, c'est noté" Margin="20 10" Background="#FFF3EF76" Height="40" Padding="5,5,5,5" FontSize="16"/>
+                <Button Content="ToDo note 5, Learn" Margin="20 10" Background="#FFF3EF76" Height="40" Padding="5,5,5,5" FontSize="16"/>
+                <Button Content="ToDo note 6, Learn Again !" Margin="20 10" Background="#FFF3EF76" Height="40" Padding="5,5,5,5" FontSize="16"/>
             </StackPanel>
 
         </Grid>
