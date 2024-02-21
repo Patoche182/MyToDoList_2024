@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:MyToDoList_2024"
         mc:Ignorable="d"
-        Title="MyToDoList" Height="600" Width="900" Background="Black">
+        Title="MyToDoList" Height="600" Width="900" Background="Black" ResizeMode = NoResize>
 
     <!-- Définition de la GRID -->
     <Grid Background="Black">
